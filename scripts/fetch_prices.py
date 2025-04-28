@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime, timezone
 import os
 
-COINS = ["bitcoin", "ethereum"]
+COINS = ["bitcoin", "ethereum", "ripple", "cardano", "solana", "dogecoin", "pepe"]
 VS_CURRENCY = "usd"
 DB_PATH = os.path.join("data", "crypto_prices.db")
 
