@@ -12,8 +12,6 @@ A simple cryptocurrency dashboard that fetches live crypto prices, saves them in
   - Live price tables
   - Interactive price charts (matplotlib)
   - Dropdown filter to select different coins
-- Automated fetching with optional scheduling (Task Scheduler / Cron)
-- Docker-ready (Dockerfile included)
 - Unit tested with pytest ✅
 
 ---
